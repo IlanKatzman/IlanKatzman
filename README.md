@@ -7,9 +7,3 @@
 <img src="https://komarev.com/ghpvc/?username=IlanKatzman&style=for-the-badge&color=FF7A00&label=VISITORS" alt="visitors" />
 
 </div>
-
----
-
-<div align="center">
-<sub>🟠 <a href="https://bitight.co.il">bitight.co.il</a></sub>
-</div>
