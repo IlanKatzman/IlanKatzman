@@ -10,37 +10,11 @@
 
 ---
 
-```txt
-        ┌─────────────────────┐
-        │   B I T I G H T     │
-        ├─────────────────────┤
-        │   ₪  120.00         │
-        │   →   32.41 USDC    │
-        │                     │
-        │   ▓▓▓▓▓▓▓▓▓▓  100%  │
-        │   ● paid            │
-        └──────────┬──────────┘
-                   │
-              ╔════╧════╗
-              ║ ◈ ◈ ◈ ║   solana · polygon · ethereum
-              ╚═════════╝
-```
-
-```txt
-BOSS      payments that cannot be half-done
-PARTY     ASP.NET Core · Angular · Fireblocks · Azure
-MAP       Israel
-```
-
----
-
 ## 🧰 Weapons
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,nodejs,azure,docker,mssql,nginx,jenkins,git&theme=dark" alt="stack" />
-
-<sub>earlier runs · C · Java · React · jQuery · Bootstrap · p5.js</sub>
 
 </div>
 
