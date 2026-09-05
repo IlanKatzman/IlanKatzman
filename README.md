@@ -10,16 +10,6 @@
 
 ---
 
-## 🧰 Weapons
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,nodejs,azure,docker,mssql,nginx,jenkins,git&theme=dark" alt="stack" />
-
-</div>
-
----
-
 <div align="center">
 <sub>🟠 <a href="https://bitight.co.il">bitight.co.il</a></sub>
 </div>
